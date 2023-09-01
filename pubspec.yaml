@@ -45,6 +45,7 @@ dependencies:
   kakaomap_webview: ^0.6.2
   kpostal: ^0.5.1
   location: ^5.0.3
+  webview_flutter: ^3.0.4
 
 dev_dependencies:
   flutter_test:

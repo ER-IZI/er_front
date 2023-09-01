@@ -20,7 +20,7 @@ class _LoginScreenState extends State<LoginScreen> {
     // 실제 서버 URL로 변경
     String local = 'http://localhost:5000/login';
     String emulator = 'http://10.0.2.2:5000/login';
-    String device = 'http://192.168.144.213:5000/login';
+    String device = 'http://192.168.55.213:5000/login';
 
     String url = device;
     Map<String, String> data = {'id': id, 'password': password};
